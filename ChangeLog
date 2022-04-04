@@ -1,4 +1,8 @@
-version 0.2.0
+version 0.2.1 (Apr 4, 2022)
+-------------------------------------
+* Add function imports to satisfy new package requirements
+
+version 0.2.0 (Mar 15, 2015)
 -------------------------------------
 * Michel Ballings becomes maintainer
 * Major bug fix in the selection operator in the rbga function
